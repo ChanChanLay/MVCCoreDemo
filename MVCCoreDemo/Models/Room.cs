@@ -13,5 +13,6 @@ namespace MVCCoreDemo.Models
         public int adult { get; set; }
         public int child { get; set; }
         public int price { get; set; }
+        //Rooms
     }
 }
